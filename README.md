@@ -2,7 +2,7 @@
 Web scraper to store/scrap html, CSS, JS from website of your choice !
 
 # NodeJS Webscraper
-Demo for showing how to scrape data and get backend data to the frontend. This repository is for the video tutorial [here](https://youtu.be/-3lqUHeZs_0)
+Demo for showing how to scrape data and get backend data to the frontend.
 
 
 ## To run this project
